@@ -27,7 +27,7 @@ A web dashboard displaying the 2025 Formula 1 season data, built with Flask and 
 
 1. Clone the repository
 ```bash
-   git clone https://github.com/USERNAMEKAMU/f1-dashboard.git
+   git clone https://github.com/Jsooonx/f1-dashboard.git
    cd f1-dashboard
 ```
 
